@@ -1,2 +1,2 @@
-# macvie.github.io
-http://macvie.eu/
+# Sclimm, man!
+# http://macvie.eu/
