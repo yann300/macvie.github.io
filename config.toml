@@ -1,0 +1,15 @@
+baseurl = "http://macvie.eu"
+languageCode = "en-us"
+title = "MacVie"
+theme = "hugo-uno"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Mac Wilga"
+  email = "music@mavie.eu"
+  facebook = "macvie"
+  soundcloud = "macvie"
+  description = "Es gibt Töne, die den Raum vergrössern, wenn sie erklingen"
+  cover = "/images/background2.jpg"
