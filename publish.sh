@@ -7,4 +7,5 @@ git commit -m "Updating HTML"
 git push
 cd ..
 git add .
-git commit -m "Updating Repo"
+git commit -m "Updating Source"
+git push
