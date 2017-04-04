@@ -1,5 +1,5 @@
 +++
-Categories = ["Youtube"]
+Categories = ["video"]
 Tags = ["deutsch"]
 Description = ""
 menu = "main"

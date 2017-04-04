@@ -23,10 +23,16 @@
                 <hr class="panel-cover__divider" />
                 <p class="panel-cover__description"> {{ if .Site.Params.description }} {{ .Site.Params.description }} {{ else }} This site is built using <a href="http://gohugo.io">hugo</a> and the theme is built by <a href="http://fredrikloch.me">Fredrik</a> if you enjoy it, it is available at <a href="https://github.com/SenjinDarashiva/hugo-uno">github</a> {{end}} </p>
                 <hr class="panel-cover__divider panel-cover__divider--secondary" />
+                <br>
+                <br>
+                <ul class="navigation" style="margin: 0 auto;">
+                         <li class="navigation__item"><a href="{{ .Site.BaseURL }}/categories/audio" title="Listen music" class="blog-button">Listen</a> </li>
+                         <li class="navigation__item"><a href="{{ .Site.BaseURL }}/categories/video" title="View music" class="blog-button">View</a> </li></br>
+                 </ul>
                 <div class="navigation-wrapper">
                     <nav class="cover-navigation cover-navigation--primary">
                         <ul class="navigation">
-                            <li class="navigation__item"><a href="{{ .Site.BaseURL }}#blog" title="link to {{ .Site.Title }} blog" class="blog-button">Listen</a> </li></br>
+
                             {{ if .Site.Params.cv }}<li class="navigation__item"><a href="{{ .Site.Params.cv  }}" title="link to my CV " class="blog-button">CV</a> </li></br> {{ end }}
                             {{ if .Site.Params.legalnotice }}<li class="navigation__item"><a href="{{ .Site.Params.legalnotice  }}" title="link to the legal notice " class="blog-button">Legal notice</a> </li></br> {{ end }}
                        </ul>

@@ -1,7 +1,7 @@
 +++
 title = "Halfway (cover)"
 menu = "main"
-Categories = ["soundcloud"]
+Categories = ["audio"]
 Tags = ["english"]
 Description = ""
 date = "2017-04-02T18:47:59+02:00"
