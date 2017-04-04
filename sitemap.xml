@@ -27,43 +27,25 @@
   </url>
   
   <url>
-    <loc>http://macvie.eu/tags/</loc>
-    <lastmod>2017-04-02T18:47:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://macvie.eu/categories/</loc>
-    <lastmod>2017-04-02T18:47:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://macvie.eu/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://macvie.eu/tags/development/</loc>
-    <lastmod>2016-01-04T18:36:56+02:00</lastmod>
+    <loc>http://macvie.eu/tags/deutsch/</loc>
+    <lastmod>2017-04-02T18:46:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://macvie.eu/categories/development/</loc>
-    <lastmod>2016-01-04T18:36:56+02:00</lastmod>
+    <loc>http://macvie.eu/tags/english/</loc>
+    <lastmod>2017-04-02T18:47:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://macvie.eu/tags/golang/</loc>
-    <lastmod>2016-01-04T18:36:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://macvie.eu/categories/golang/</loc>
-    <lastmod>2016-01-04T18:36:56+02:00</lastmod>
+    <loc>http://macvie.eu/tags/fran%C3%A7ais/</loc>
+    <lastmod>2016-11-03T13:46:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,6 +63,12 @@
   
   <url>
     <loc>http://macvie.eu/post/</loc>
+    <lastmod>2017-04-02T18:47:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://macvie.eu/categories/soundcloud/</loc>
     <lastmod>2017-04-02T18:47:59+02:00</lastmod>
     <priority>0</priority>
   </url>
