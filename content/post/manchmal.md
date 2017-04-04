@@ -2,8 +2,8 @@
 date = "2017-04-02T18:46:55+02:00"
 title = "Manchmal wissen wir nicht..."
 menu = "main"
-Categories = [""]
-Tags = [""]
+Categories = ["soundcloud"]
+Tags = ["deutsch"]
 Description = "Manchmal wissen wir nicht"
 
 +++
