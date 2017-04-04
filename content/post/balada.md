@@ -1,7 +1,7 @@
 +++
 Description = ""
 date = "2016-12-14T18:37:44+02:00"
-title = "Ballada o dziwnym malarzu"
+title = "Ballada o dziwnym malarzu (cover)"
 menu = "main"
 Categories = ["video"]
 Tags = ["polnish"]

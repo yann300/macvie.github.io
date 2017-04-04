@@ -2,9 +2,9 @@
 Categories = ["video"]
 Description = ""
 Tags = ["français"]
-date = "2016-11-03T13:46:06+02:00"
+date = "2016-11-28T13:46:06+02:00"
 menu = "main"
-title = "Il est venu le temps des cathédrales"
+title = "Il est venu le temps des cathédrales (cover)"
 
 +++
 
