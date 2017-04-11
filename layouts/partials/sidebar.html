@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../../static/css/tachyons.css" />
+
 <div id="scriptHeader">
     <span class="mobile btn-mobile-menu">
             <i class="fa fa-bars btn-mobile-menu__icon"></i>
@@ -21,22 +23,30 @@
                     <a href="{{ .Site.BaseURL }}/"  title="link to homepage for {{ .Site.Title }}">{{ .Site.Title }}</a>
                 </h1>
                 <hr class="panel-cover__divider" />
-                <p class="panel-cover__description"> {{ if .Site.Params.description }} {{ .Site.Params.description }} {{ else }} This site is built using <a href="http://gohugo.io">hugo</a> and the theme is built by <a href="http://fredrikloch.me">Fredrik</a> if you enjoy it, it is available at <a href="https://github.com/SenjinDarashiva/hugo-uno">github</a> {{end}} </p>
+                <p class="panel-cover__description small-caps tracked">
+                    {{ if .Site.Params.description }} {{ .Site.Params.description }} {{ else }} This site is built using <a href="http://gohugo.io">hugo</a> and the theme is built by <a href="http://fredrikloch.me">Fredrik</a> if you enjoy it, it is available at <a href="https://github.com/SenjinDarashiva/hugo-uno">github</a> {{end}}
+                </p>
                 <hr class="panel-cover__divider panel-cover__divider--secondary" />
                 <br>
                 <br>
-                <ul class="navigation" style="margin: 0 auto;">
-                         <li class="navigation__item"><a href="{{ .Site.BaseURL }}/categories/audio" title="Listen music" class="blog-button">Listen</a> </li>
-                         <li class="navigation__item"><a href="{{ .Site.BaseURL }}/categories/video" title="View music" class="blog-button">View</a> </li></br>
+                <ul class="navigation center mt4 pr4 pb3" >
+                         <li class="navigation__item blog-button w4 pa1">
+                             <a href="{{ .Site.BaseURL }}/categories/audio" >Listen</a>
+                         </li>
+                        <li class="navigation__item blog-button w4 pa1">
+                             <a href="{{ .Site.BaseURL }}/categories/video" >View</a>
+                         </li>
+                    <li></li>
+                    <li class="navigation__item blog-button w4 pa1">
+                        <a href="{{ .Site.BaseURL }}/post/about" >About</a>
+                    </li>
+                    <li class="navigation__item blog-button w4 pa1">
+                        <a href="{{ .Site.BaseURL }}/post/gallery" >Gallery</a>
+                    </li>
                  </ul>
-                <div class="navigation-wrapper">
-                    <nav class="cover-navigation cover-navigation--primary">
-                        <ul class="navigation">
-
-                            {{ if .Site.Params.cv }}<li class="navigation__item"><a href="{{ .Site.Params.cv  }}" title="link to my CV " class="blog-button">CV</a> </li></br> {{ end }}
-                            {{ if .Site.Params.legalnotice }}<li class="navigation__item"><a href="{{ .Site.Params.legalnotice  }}" title="link to the legal notice " class="blog-button">Legal notice</a> </li></br> {{ end }}
-                       </ul>
-                    </nav> {{ partial "social.html" . }} </div>
+                <div class="navigation-wrapper mt4-l ml5-l">
+                     {{ partial "social.html" . }}
+                </div>
             </div>
         </div>
         <div class="panel-cover--overlay"></div>
