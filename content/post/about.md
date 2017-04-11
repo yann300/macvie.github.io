@@ -26,7 +26,7 @@ Of course, there have been many loves in between. Music, however, was my first o
 Influences (playlists)
 ====
  
-MacVie’s musical influences come from across different genres and from various geographical locations. They also come and go, and may then also return again. In that way, many exceptional voices and interesting ways of singing have been inspiring: 
+MacVie’s musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they may as well return again. In that way, many good songs, exceptional voices and interesting ways of singing have been inspiring over the years: 
 
 From ‘SWEDEN’ (SE/Scandinavian):
 ----
