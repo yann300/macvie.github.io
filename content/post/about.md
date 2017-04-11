@@ -47,7 +47,7 @@ La France a été une source d'inspiration musicale presque depuis deux décenni
 From ‘GERMANY’ (DE):
 ----
  
-In der deutschen Musikszene gibt es ebenfalls viele tolle Künstler, die mich beiflusst haben. Unter den befinden sich solche mit einer langjähringen Musikerriere und vielen Hits wie z.B. die Musikikonen ‘Nena’ (1984-07), ‘Nina Hagen’ (1988-2003), ‘Mia’, (2002-10), oder ‘die Toten Hosen’ (1987-2015), sowie solche, die erst seit einigen Jahren bekannt sind und die Szene aufmischen. Unter vielen anderen sind hierbei vor allem ‘Silbermond’ (2013-17), ‘Andreas Bourani’ (2014-17), ‘Cäthe’ (2014-17), ‘Max Giesinger’ (2016-17), ‘Mark Foster’ (2015-17), ‘Alex Knappe’ (2016-17) oder ‘Clueso’ (2015-17) zu nennen. Sehe die deutsche Playliste: 
+In der deutschen Musikszene gibt es ebenfalls viele tolle Künstler, die mich beiflusst haben. Unter den befinden sich solche mit einer langjähringen Musikerriere und vielen Hits wie z.B. die Musikikonen ‘Nena’ (1984-07), ‘Nina Hagen’ (1988-2003), ‘Mia’, (2002-10), oder ‘die Toten Hosen’ (1987-2015), sowie solche, die erst seit einigen Jahren bekannt sind und die Szene aufmischen. Unter vielen anderen sind hierbei vor allem ‘Silbermond’ (2013-17), ‘Andreas Bourani’ (2014-17), ‘Cäthe’ (2014-17), ‘Max Giesinger’ (2016-17), ‘Mark Forster’ (2015-17), ‘Alex Knappe’ (2016-17) oder ‘Clueso’ (2015-17) zu nennen. Sehe die deutsche Playliste: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAy8-p6JTVFFktf1ZDHrEywB" frameborder="0" allowfullscreen></iframe>
 
