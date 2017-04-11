@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://macvie.eu/post/gallery/</loc>
+    <lastmod>2017-04-11T08:33:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macvie.eu/post/about/</loc>
+    <lastmod>2017-04-09T19:21:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://macvie.eu/post/halfway/</loc>
     <lastmod>2017-04-02T18:47:59+02:00</lastmod>
   </url>
@@ -27,6 +37,18 @@
   </url>
   
   <url>
+    <loc>http://macvie.eu/categories/</loc>
+    <lastmod>2017-04-09T19:21:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://macvie.eu/tags/</loc>
+    <lastmod>2017-04-09T19:21:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://macvie.eu/categories/audio/</loc>
     <lastmod>2017-04-02T18:47:59+02:00</lastmod>
     <priority>0</priority>
@@ -44,6 +66,18 @@
   </url>
   
   <url>
+    <loc>http://macvie.eu/categories/development/</loc>
+    <lastmod>2017-04-11T08:33:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://macvie.eu/tags/development/</loc>
+    <lastmod>2017-04-11T08:33:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://macvie.eu/tags/english/</loc>
     <lastmod>2017-04-02T18:47:59+02:00</lastmod>
     <priority>0</priority>
@@ -56,8 +90,20 @@
   </url>
   
   <url>
+    <loc>http://macvie.eu/categories/golang/</loc>
+    <lastmod>2017-04-11T08:33:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://macvie.eu/tags/golang/</loc>
+    <lastmod>2017-04-11T08:33:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://macvie.eu/</loc>
-    <lastmod>2017-04-02T18:47:59+02:00</lastmod>
+    <lastmod>2017-04-11T08:33:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,7 +115,7 @@
   
   <url>
     <loc>http://macvie.eu/post/</loc>
-    <lastmod>2017-04-02T18:47:59+02:00</lastmod>
+    <lastmod>2017-04-11T08:33:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
