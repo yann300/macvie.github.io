@@ -26,7 +26,7 @@ Of course, there have been many loves in between. Music, however, was my first o
 Influences (playlists)
 ====
  
-MacVie’s musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they may as well return again. In that way, many good songs, exceptional voices and interesting ways of singing have been inspiring over the years: 
+MacVie’s musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing have been inspiring for me over the years: 
 
 From ‘SWEDEN’ (SE/Scandinavian):
 ----
@@ -39,7 +39,7 @@ Bland de artister som upptagit min tid p.g.a. att jag ofta lyssnat på deras mus
 From ‘FRANCE’ (FR):
 ----
 
-La France a été une source d'inspiration musicale presque depuis deux décennies. Plus tôt, c’était parmi beaucoup d’autres ‘Francis Cabrel’ (1998-2013), ‘Indochine’ (2005-9) ou bien ‘Anggun’ (2008-13), y compris nombreuses chansons du canon ‘chansons françaises’, par exemple ‘Kate Rayn’ (2008-2010). Actuellement, c’est ‘Louane’ (2015-17), la gagnante de télé-crochet “The Voice, la plus belle voix” de 2015 en France et surtout ‘Slimane’, aussi gagnant de the Voice en France en 2016, qui fait partie de ma liste de chansons en français. Ensuite, les artistes comme ‘ZAZ’ (2013-17) ou bien ‘Christophe Maé’ (2016-17) trouvent bien sûr aussi leurs places dans mes listes de musique. Voir la liste française: 
+La France a été une source d'inspiration musicale pour plus que deux décennies. Plus tôt, c’était parmi beaucoup d’autres ‘Francis Cabrel’ (1998-2013), ‘Indochine’ (2005-9) ou bien ‘Anggun’ (2008-13), y compris nombreuses chansons du canon ‘chansons françaises’, par exemple ‘Kate Rayn’ (2008-2010). Actuellement, c’est ‘Louane’ (2015-17), la gagnante de télé-crochet “The Voice, la plus belle voix” de 2015 en France et surtout ‘Slimane’, aussi gagnant de the Voice en France en 2016, qui fait partie de ma liste de chansons en français. Ensuite, les artistes comme ‘ZAZ’ (2013-17) ou bien ‘Christophe Maé’ (2016-17) trouvent bien sûr aussi leurs places dans ma liste de la musique française. Voir ici la liste: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAxZ-dkynVqcwi9Uj42LB1GK" frameborder="0" allowfullscreen></iframe>
 
