@@ -80,7 +80,7 @@ Ever since it was launched in Holland in 2010, ‘the Voice’ has been a very i
 And finally from the ‘EUROVISION SONG CONTEST’ (EN):
 ----
 
-One cannot forget here the biggest European––if not global––song festival event, the European Song Contest (ESC), which takes place every year in May with most of the European countries represented in the competition. Over the years, the ESC has made some good songs to hits (i.e. ABBA) and also helped other reach the wider European public ear. Thanks to the participation in the ESC, some artists started their international music careers for good, such as Lena Meyer-Landrut from Germany or Måns Zelmerlöw from Sweden, both ESC winners from 2010 and 2015 respectively. See the ESC playlist:
+One cannot forget here the biggest European––if not global––song festival event, the European Song Contest (ESC), which takes place every year in May with most of the European countries represented in the competition. Over the years, the ESC has made some good songs to hits (i.e. ABBA) and also helped other reach the wider European public. Thanks to the participation in the ESC, some artists started their international music careers for good, such as Lena Meyer-Landrut from Germany or Måns Zelmerlöw from Sweden, both ESC winners from 2010 and 2015 respectively. See the ESC playlist:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAw6y1636XtGEJKq6uyfrDM3" frameborder="0" allowfullscreen></iframe>
 
