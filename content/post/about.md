@@ -13,7 +13,7 @@ Briefly
 -----
 
 
-Currently based in Berlin, MacVie intends to become a singer-songwriter. His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations cover different genres coming from rock, pop rock, pop, blues, Nordic jazz, chansons françaises and deutsche Pop, and even from different national ‘the Voice’ editions, some of them are quite old and still make up his daily playlists. Those, of course, evolve as much as the artist himself. (...) Although late, the journey finally begins.
+Currently based in Berlin, MacVie is a singer-songwriter in the making. His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations cover different genres coming from rock, pop rock, pop, blues, Nordic jazz, chansons françaises and deutsche Pop, and even from different national ‘the Voice’ editions, some of them are quite old and still make up his daily playlists. Those, of course, evolve as much as the artist himself. (...) Although late, the journey finally begins.
 
 
 About me
