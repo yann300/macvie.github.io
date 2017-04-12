@@ -31,7 +31,7 @@ MacVie’s musical influences come from across different genres and various geog
 From ‘SWEDEN’ (SE/Scandinavian):
 ----
 
-Bland de artisterna som tagit min tid genom att göra mig vilja höra till deras musik är jazz sångerskan ‘Viktoria Tolstoy’ (2006-11), gruppen ‘Esbjörn Svensson Trio’ (2005-2013), ‘Tingvall Trio’ (2009-14), ‘Helge Lion Trio’ (2009-14) eller ‘NHØP’ (2013-17). Sen några svenska gitarister som ‘Andreas Pettersson’ (2010-17) eller ‘Ulf Wakenius’ (2011-17) var inflytelserika. I rock, pop eller liknande sound ‘Bo Kaspers Orkester’ bandet (2010-17), ‘Melissa Horn’ (2013-17), ‘Veronica Maggio’ (2014-16) och ‘Laleh’ (2014-17) föjlar mig. Det finns också få rock grupper som spelat för mångar år i Sverige som t.e. ’Kent’ (2013-17) eller ’Håkan Hellström’ (2015-17). Se här den svenska playlistan:
+Bland de artisterna som fått mig att vilja höra till deras musik är jazzsångerskan ‘Viktoria Tolstoy’ (2006-11), gruppen ‘Esbjörn Svensson Trio’ (2005-2013), ‘Tingvall Trio’ (2009-14), ‘Helge Lion Trio’ (2009-14) eller ‘NHØP’ (2013-17). Även några svenska gitarister som ‘Andreas Pettersson’ (2010-17) eller ‘Ulf Wakenius’ (2011-17) var viktiga. I pop eller liknande sound var det ‘Bo Kaspers Orkester’ bandet (2010-17), ‘Melissa Horn’ (2013-17), ‘Veronica Maggio’ (2014-16) och ‘Laleh’ (2014-17). Det finns också få rockgrupper som spelat mångar år i Sverige som t.ex. ’Kent’ (2013-17) eller ’Håkan Hellström’ (2015 -17). Titta på den svenska playlistan:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAxpWMedoUHCWOkecgmcCJi4" frameborder="0" allowfullscreen></iframe>
 
