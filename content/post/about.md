@@ -55,7 +55,7 @@ In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die
 From ‘POLAND’ (PL):
 ----
 
-Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak `Republika/Obwatel GC’ (1983-89), ‘Dżem’ (1983-91), ‘Oddział Zamknięty’ (1983-91), ‘Banda i Wanda’ (1984-96), ‘Lombard’ (1984-96), ‘Bajm’ (1987-99) czy 'TSA' (1985-88). Troche później dołączyły do nich ‘O.N.A.’ (2007-13) oraz ‘Agnieszka Chylińska’ (20013-15). Niedawno, odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa ‘LemOn’ (2015-17) jak i niektóre utwory Sylwii Grzeszczak (2017) są również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
+Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak `Republika/Obwatel GC’ (1983-89), ‘Dżem’ (1983-91), ‘Oddział Zamknięty’ (1983-91), ‘Banda i Wanda’ (1984-96), ‘Lombard’ (1984-96), ‘Bajm’ (1987-99) czy 'TSA' (1985-88). Troche później dołączyły do nich ‘O.N.A.’ (2007-13) oraz ‘Agnieszka Chylińska’ (20013-15). Niedawno, odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa ‘LemOn’ (2015-17), jak i niektóre utwory Sylwii Grzeszczak (2017), są również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAy-CpejVKhfFc1rYe9dHufI" frameborder="0" allowfullscreen></iframe>
