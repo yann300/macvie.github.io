@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-git pull && cd public && git pull | exit 1
+git pull && cd public && git pull && cd ..| exit 1
 hugo
 cp CNAME public/
 cd public
