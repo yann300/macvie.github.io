@@ -37,13 +37,13 @@
   </url>
   
   <url>
-    <loc>http://macvie.eu/tags/</loc>
+    <loc>http://macvie.eu/categories/</loc>
     <lastmod>2017-04-09T19:21:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://macvie.eu/categories/</loc>
+    <loc>http://macvie.eu/tags/</loc>
     <lastmod>2017-04-09T19:21:58+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -66,13 +66,13 @@
   </url>
   
   <url>
-    <loc>http://macvie.eu/tags/development/</loc>
+    <loc>http://macvie.eu/categories/development/</loc>
     <lastmod>2017-04-11T08:33:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://macvie.eu/categories/development/</loc>
+    <loc>http://macvie.eu/tags/development/</loc>
     <lastmod>2017-04-11T08:33:47+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,13 +90,13 @@
   </url>
   
   <url>
-    <loc>http://macvie.eu/tags/golang/</loc>
+    <loc>http://macvie.eu/categories/golang/</loc>
     <lastmod>2017-04-11T08:33:47+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://macvie.eu/categories/golang/</loc>
+    <loc>http://macvie.eu/tags/golang/</loc>
     <lastmod>2017-04-11T08:33:47+02:00</lastmod>
     <priority>0</priority>
   </url>
