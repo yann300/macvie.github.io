@@ -28,7 +28,7 @@ Of course, there have been many loves in between. Music, however, was my first o
 Influences (playlists)
 ====
  
-MacVie**s musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing have been inspiring for me over the years: 
+MacVie's musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing have been inspiring for me over the years: 
 
 From **SWEDEN** (SE/Scandinavian):
 ----
@@ -57,7 +57,7 @@ In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die
 From **POLAND** (PL):
 ----
 
-Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak `Republika/Obwatel GC** *(1983-89)*, **Dżem** *(1983-91)*, **Oddział Zamknięty** *(1983-91)*, **Banda i Wanda** *(1984-96)*, **Lombard** *(1984-96)*, **Bajm** *(1987-99)* czy 'TSA' *(1985-88)*. Troche później dołączyły do nich **O.N.A.** *(2007-13)* oraz **Agnieszka Chylińska** *(20013-15)*. Niedawno, odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa **LemOn** *(2015-17)*, jak i niektóre utwory Sylwii Grzeszczak *(2017)*, są również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
+Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak **Republika/Obwatel GC** *(1983-89)*, **Dżem** *(1983-91)*, **Oddział Zamknięty** *(1983-91)*, **Banda i Wanda** *(1984-96)*, **Lombard** *(1984-96)*, **Bajm** *(1987-99)* czy 'TSA' *(1985-88)*. Troche później dołączyły do nich **O.N.A.** *(2007-13)* oraz **Agnieszka Chylińska** *(20013-15)*. Niedawno, odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa **LemOn** *(2015-17)*, jak i niektóre utwory Sylwii Grzeszczak *(2017)*, są również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAy-CpejVKhfFc1rYe9dHufI" frameborder="0" allowfullscreen></iframe>
@@ -74,7 +74,7 @@ Of course, the are also songs that have had global impact. Hereto belong songs o
 From **the VOICE** (EN):
 ----
 
-Ever since it was launched in Holland in 2010, **the Voice** has been a very interesting source of inspiration too, both for the diversity of songs chosen by the voice**s talents, for the way the songs are interpreted, as well as for the talents** voices and their very divers ways of singing. Especially, since it went global and conquered most of the countries on this planet, the Voice offers now an excellent platform for singers to participate or to get inspiration from. See the VOICE playlist: 
+Ever since it was launched in Holland in 2010, **the Voice** has been a very interesting source of inspiration too, both for the diversity of songs chosen by the voice's talents, for the way the songs are interpreted, as well as for the talents** voices and their very divers ways of singing. Especially, since it went global and conquered most of the countries on this planet, the Voice offers now an excellent platform for singers to participate or to get inspiration from. See the VOICE playlist: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAwtdCyKfCppWB79Jvf6MGCx" frameborder="0" allowfullscreen></iframe>
 
