@@ -74,7 +74,7 @@ Of course, the are also songs that have had global impact. Hereto belong songs o
 From **the VOICE** (EN):
 ----
 
-Ever since it was launched in Holland in 2010, **the Voice** has been a very interesting source of inspiration too, both for the diversity of songs chosen by the voice's talents, for the way the songs are interpreted, as well as for the talents** voices and their very divers ways of singing. Especially, since it went global and conquered most of the countries on this planet, the Voice offers now an excellent platform for singers to participate or to get inspiration from. See the VOICE playlist: 
+Ever since it was launched in Holland in 2010, **the Voice** has been a very interesting source of inspiration too, both for the diversity of songs chosen by the voice's talents, for the way the songs are interpreted, as well as for the talent's voices and their very divers ways of singing. Especially, since it went global and conquered most of the countries on this planet, the Voice offers now an excellent platform for singers to participate or to get inspiration from. See the VOICE playlist: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAwtdCyKfCppWB79Jvf6MGCx" frameborder="0" allowfullscreen></iframe>
 
